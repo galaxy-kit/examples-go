@@ -24,5 +24,5 @@ type _DemoComp struct {
 
 // Start 组件开始
 func (comp *_DemoComp) Start() {
-	DemoPlugin.Get(service.Get(comp)).Test()
+	DemoPlugin.Context(service.Get(comp)).Test()
 }

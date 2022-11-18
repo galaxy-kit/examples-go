@@ -36,7 +36,7 @@ func (comp *_DemoComp) Update() {
 	serviceCtx := service.Get(comp)
 
 	// 注册服务
-	registry.Get(serviceCtx).Register(
+	registry.Context(serviceCtx).Register(
 		context.Background(),
 		registry.Service{
 			Name:    "demo",

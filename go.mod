@@ -4,8 +4,8 @@ go 1.19
 
 require (
 	github.com/galaxy-kit/components-go v0.0.0-20221118075631-029bc42399be
-	github.com/galaxy-kit/galaxy-go v0.0.0-20221118074928-0296d1e11fac
-	github.com/galaxy-kit/plugins-go v0.0.0-20221118080759-ecf609f3d787
+	github.com/galaxy-kit/galaxy-go v0.0.0-20221118170147-6f9f916cac12
+	github.com/galaxy-kit/plugins-go v0.0.0-20221118170423-6ef20513e76a
 )
 
 require (

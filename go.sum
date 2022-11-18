@@ -84,10 +84,10 @@ github.com/fsnotify/fsnotify v1.6.0 h1:n+5WquG0fcWoWp6xPWfHdbskMCQaFnG6PfBrh1Ky4
 github.com/fsnotify/fsnotify v1.6.0/go.mod h1:sl3t1tCWJFWoRz9R8WJCbQihKKwmorjAbSClcnxKAGw=
 github.com/galaxy-kit/components-go v0.0.0-20221118075631-029bc42399be h1:0yxbeNcRAoO2+rWYNvZRTkU0+HU/JgMtMC0BircH8xk=
 github.com/galaxy-kit/components-go v0.0.0-20221118075631-029bc42399be/go.mod h1:HmasAQ2zsQuCIJdFHIzwHYBRg0GBQ8UcSP6LeXBYyXE=
-github.com/galaxy-kit/galaxy-go v0.0.0-20221118074928-0296d1e11fac h1:FWxvDlyKh0CSDTaY+B2PkfLXz0ZKqB4FS8VNkFNYwAI=
-github.com/galaxy-kit/galaxy-go v0.0.0-20221118074928-0296d1e11fac/go.mod h1:gxwFY/qh9BJQrqz8NFR0dVmzCZzFoJX4g1Zez8o5gGI=
-github.com/galaxy-kit/plugins-go v0.0.0-20221118080759-ecf609f3d787 h1:c8l41AVkvcm77VFi1jjSNYcUG3G05y6fansYr0C5ubE=
-github.com/galaxy-kit/plugins-go v0.0.0-20221118080759-ecf609f3d787/go.mod h1:/5qgXjR1iDvFIjL0jCy8wXFW1G2pJ6pvLnPDyWkH898=
+github.com/galaxy-kit/galaxy-go v0.0.0-20221118170147-6f9f916cac12 h1:IloBeHogwjLa9uf6f2aEi9GONi35rB3nImUPu4jQv5A=
+github.com/galaxy-kit/galaxy-go v0.0.0-20221118170147-6f9f916cac12/go.mod h1:gxwFY/qh9BJQrqz8NFR0dVmzCZzFoJX4g1Zez8o5gGI=
+github.com/galaxy-kit/plugins-go v0.0.0-20221118170423-6ef20513e76a h1:8HoskQ6jDDdJ0sYpd6tDDNq9dNhUZOIuM5JMFv7IFdo=
+github.com/galaxy-kit/plugins-go v0.0.0-20221118170423-6ef20513e76a/go.mod h1:b8ilr5PIIlroM0TSGMLoZPGRy6gxq10cAAvViITX+8g=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/go-gl/glfw v0.0.0-20190409004039-e6da0acd62b1/go.mod h1:vR7hzQXu2zJy9AVAgeJqvqgH9Q5CA+iKCZ2gyEVpxRU=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20191125211704-12ad95a8df72/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
